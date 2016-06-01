@@ -1,0 +1,13 @@
+{
+    "name": "Low Poly 生成器",
+    "short_name": "Low Poly 生成器",
+    "display": "portrait",
+    "orientation": "portrait",
+    "theme_color": "#04BE02",
+    "icons": [
+        {
+            "src": "res/img/logo.png",
+            "sizes": "48x 48 72x72 96x96 128x128 256x256"
+        }
+    ]
+}
